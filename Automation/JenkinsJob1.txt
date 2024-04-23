@@ -1,0 +1,1 @@
+newman run --disable-unicode "F:\Courses\00-Software Testing (ITI)\ITI\API Project\Booking_Collections\BookingCollection.json" -e "F:\Courses\00-Software Testing (ITI)\ITI\API Project\Booking_Collections\BookingEnvironment.json"
